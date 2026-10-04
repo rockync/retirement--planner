@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790886376355,
+      "tag": "0001_initial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790886376355,
+      "tag": "0002_create_retirement_plan_and_cashflow_events",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790890178385,
+      "tag": "0003_add_portfolio_return_model",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1790890591407,
+      "tag": "0004_set_planning_horizon_age_90",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1790891428781,
+      "tag": "0005_add_live_portfolio_allocation",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1790900442993,
+      "tag": "0006_restore_monthly_retirement_income_target",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1791069351331,
+      "tag": "0007_isolate_plans_by_viewer",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1791129243530,
+      "tag": "0008_allow_multiple_isolated_retirement_plans",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1791129556003,
+      "tag": "0009_remove_accidental_condo_test_event",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1791129620279,
+      "tag": "0010_restore_condo_event",
+      "breakpoints": true
+    }
+  ]
+}

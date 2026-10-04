@@ -1,0 +1,23 @@
+# Runtime data (never commit user plans)
+app.db
+app.db-*
+
+# Dependencies
+node_modules/
+
+# Build outputs
+client/dist/
+client/dist-cvm/
+server/dist/
+.space-build/
+.space-build-cvm/
+*.tsbuildinfo
+
+# Caches and local tooling
+.bun-cache/
+.harness/
+audits/
+
+# OS / editor
+.DS_Store
+Thumbs.db
